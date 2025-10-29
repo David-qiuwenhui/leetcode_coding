@@ -1,0 +1,18 @@
+{
+  "name": "leetcode_coding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:David-qiuwenhui/leetcode_coding.git",
+  "author": "qiuwenhui <1059713136@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "ut": "vitest run",
+    "ut:watch": "vitest",
+    "ut:coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.0.5",
+    "jsdom": "^27.0.1",
+    "vitest": "^4.0.5"
+  }
+}
